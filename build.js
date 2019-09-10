@@ -17,12 +17,12 @@ const options = {
 const data = {
   name: chalk.white('            Tubagus Hendro Pramono'),
   handle: chalk.white('spyndutz'),
-  work: chalk.white('Back-end Engineer | Data Analyst'),
+  work: chalk.white('Back-end Engineer | Software Developer'),
   opensource: chalk.white('Bachelor Degree of Information Systems'),
   twitter: chalk.gray('https://twitter.com/') + chalk.cyan('spyndutz'),
   // npm: chalk.gray('https://npmjs.com/') + chalk.red('~bnb'),
   github: chalk.gray('https://github.com/') + chalk.green('spyndutz'),
-  linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('tubagus-hendro-pramono'),
+  linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('tubagus-hendro-p'),
   // web: chalk.cyan('https://bnb.im'),
   email: chalk.white('hendropramono14@gmail.com'),
 
